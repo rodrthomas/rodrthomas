@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Rodney</h1>
-<h3 align="center">CEO and Founder of Infrared Studios. An indie game developement studio.</h3>
+<h3 align="center">CEO and Founder of Infrared Studios. An indie game development studio.</h3>
 
 - 🌱 I’m currently learning **Java, C# and Python**
 
